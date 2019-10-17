@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src="https://i6nif33omr43m6n4h1w9uvq8-wpengine.netdna-ssl.com/wp-content/uploads/so-fi-logo-1.png" />
         <p>
-          SoFi Financial Literacy.
+          SoFi Financial Literacy
         </p>
         <a
           
